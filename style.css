@@ -1,0 +1,12 @@
+body {
+    color: blue;
+    background-color: grey;
+    padding: 1%;
+    height: 100px;
+  }
+  #main{
+      background-color: white;
+      height: 200px;
+      max-width: 1000px;
+      margin: auto;
+  }
