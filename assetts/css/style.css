@@ -1,0 +1,38 @@
+body {
+    color: blue;
+    background-color: grey;
+    padding: 1%;
+    height: 100px;
+  }
+  #one{
+      background-color: white;
+      height: 200px;
+      max-width: 1000px;
+      margin: auto;
+  }
+  #two{
+    background-color: navy;
+    height: 200px;
+    max-width: 1000px;
+    margin: auto;
+}
+#three{
+    background-color: lightblue;
+    height: 200px;
+    max-width: 1000px;
+    margin: auto;
+}
+#four{
+    background-color: purple;
+    height: 200px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+  #time-left{
+    background-color: red;
+    color: white;
+    height: 50px;
+    max-width: 400px;
+    margin: auto;
+}
